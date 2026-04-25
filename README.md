@@ -1,6 +1,6 @@
 # RF-Controlled Fire Fighting Robotic Vehicle
 
-> **BSc Final Year Project — Jimma Institute of Technology, School of ECE (2016)**  
+> **HARDWARE USED**  
 > PIC16F877A · MikroC · 433 MHz RF · L293D H-bridge · Servo · GSM SIM900D · LM35 · MQ5 · IR sensors
 
 ---
