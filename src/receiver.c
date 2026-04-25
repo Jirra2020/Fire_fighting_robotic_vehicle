@@ -28,7 +28,6 @@
  *   PORTB = 0x50  (0101 0000) — Rotate Left
  *   PORTB = 0x60  (0110 0000) — Rotate Right
  *   PORTB = 0x00  (0000 0000) — Stop
- *   (Verified against Proteus simulation in original thesis)
  *
  * ── Servo PWM2 Duty Counts (50 Hz, 8 MHz crystal) ────────────────
  *   Duty 52  ≈ 1.0 ms pulse → 0°   (arm fully down)
