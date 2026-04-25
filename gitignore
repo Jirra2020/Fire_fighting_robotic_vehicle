@@ -1,0 +1,14 @@
+# MikroC build artifacts
+*.mcppi
+*.mcppi.bak
+*.hex
+*.map
+*.lst
+*.asm
+*.log
+*.cfg
+*.dbg
+
+# OS files
+.DS_Store
+Thumbs.db
