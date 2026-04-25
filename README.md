@@ -199,18 +199,6 @@ rf-firefighting-robot/
 └── README.md
 ```
 
----
-
-## Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: RF fire fighting robot firmware (BSc project 2016)"
-gh repo create rf-firefighting-robot --public --source=. --push
-```
-
----
 
 ## License
 
